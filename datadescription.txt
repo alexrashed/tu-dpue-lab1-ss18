@@ -1,0 +1,5 @@
+The leftmost column, called "Term", describes the term and year the data is taken from. E.g. "WS09" means the data is for the Winter Semester of 2009. For the term, only two manifestations are possible: "WS" for Winter Semester and "SS" for Sommer Semester (Summer Semester):
+
+The column "Students in Austria" shows the number of students that were enrolled to a university in Austria in the specified term.
+
+The column "Students in Germany" shows the number of students that were enrolled to a university in Germany in the specified term.
